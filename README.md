@@ -60,7 +60,7 @@ const schema = {
 
 ## Output
 
-```json
+```sh
 {
   fruits: { type: 'string', ref: 'properties.fruits' },
   'vegetables.veggieName': {
